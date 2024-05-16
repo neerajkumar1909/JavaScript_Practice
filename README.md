@@ -1,3 +1,3 @@
 # JavaScript_Practice_forBeginners
 
-you can pratice javascript code by topics
+This repo is for beginners to practice javascript with topics..
